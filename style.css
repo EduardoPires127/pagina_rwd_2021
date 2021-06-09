@@ -1,0 +1,173 @@
+.normal .a {
+    text-align: center;
+    border: 1px solid #000;
+    display: flex;
+    width: 50px;
+    height: 50px;
+    align-items: center;
+    top: 50px;
+    position: absolute;
+    background-color: #296c75;
+
+
+}
+
+.normal .b {
+    border: 1px solid #000;
+    display: flex;
+    width: 50px;
+    height: 50px;
+    align-items: center;
+    top: 50px;
+    left: 99px;
+    position: absolute;
+    background-color: #296c75;
+
+}
+
+.normal .c {
+    border: 1px solid #000;
+    display: flex;
+    width: 50px;
+    height: 50px;
+    align-items: center;
+    top: 50px;
+    left: 190px;
+    position: absolute;
+    background-color: #296c75;
+
+}
+
+.normal .d {
+    border-width: 50px;
+    border: 1px solid #000;
+    display: flex;
+    width: 50px;
+    height: 50px;
+    align-items: center;
+    top: 50px;
+    left: 280px;
+    position: absolute;
+    background-color: #296c75;
+
+
+}
+
+.normal .e {
+    border-width: 50px;
+    border: 1px solid #000;
+    display: flex;
+    width: 50px;
+    height: 50px;
+    align-items: center;
+    top: 50px;
+    left: 370px;
+    position: absolute;
+    background-color: #296c75;
+}
+
+.normal .a1 {
+
+    border: 1px solid #000;
+    display: flex;
+    width: 50px;
+    height: 50px;
+    align-items: center;
+    top: 300px;
+    position: absolute;
+    background-color: #af7737;
+
+
+}
+
+.normal .b1 {
+    border: 1px solid #000;
+    display: flex;
+    width: 50px;
+    height: 50px;
+    align-items: center;
+    top: 300px;
+    left: 99px;
+    position: absolute;
+    background-color: #af7737;
+
+}
+
+.normal .c1 {
+    border: 1px solid #000;
+    display: flex;
+    width: 50px;
+    height: 50px;
+    align-items: center;
+    top: 300px;
+    left: 190px;
+    position: absolute;
+    background-color: #af7737;
+
+}
+
+.normal .d1 {
+    border-width: 50px;
+    border: 1px solid #000;
+    display: flex;
+    width: 50px;
+    height: 50px;
+    align-items: center;
+    top: 300px;
+    left: 280px;
+    position: absolute;
+    background-color: #af7737;
+
+}
+
+.normal .e1 {
+    border: 1px solid #000;
+    display: flex;
+    width: 50px;
+    height: 50px;
+    align-items: center;
+    top: 300px;
+    left: 370px;
+    position: absolute;
+    background-color: #af7737;
+}
+
+.normal .a1:hover {
+
+    color: rgb(153, 0, 255);
+    background-color: seashell;
+
+
+}
+
+.normal .b1:hover {
+    color: rgb(153, 0, 255);
+    background-color: seashell;
+}
+
+.normal .c1:hover {
+    color: rgb(153, 0, 255);
+    background-color: seashell;
+}
+
+.normal .d1:hover {
+    color: rgb(153, 0, 255);
+    background-color: seashell;
+}
+
+.normal .e1:hover {
+    color: rgb(153, 0, 255);
+    background-color: seashell;
+}
+
+.cursor {
+    top: 200px;
+    left: 270px;
+    position: absolute;
+}
+
+.nor {
+    top: 0px;
+    left: 300px;
+    position: absolute;
+}
